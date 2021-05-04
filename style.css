@@ -1,0 +1,62 @@
+
+header {
+
+  background-color: #de8971;
+  color:#a7d0cd;
+  height: 140px;
+  
+
+
+}
+
+
+header h1{
+
+text-align: center
+
+}
+
+header nav{
+
+  float: right;
+  margin-bottom: 50%;
+  
+  
+}
+
+header nav ul li a{
+text-decoration: none;
+
+}
+
+body{
+
+    margin: 0%;
+  background-color:rgb(228, 156, 156); 
+}
+
+section{
+
+ background-color: #e0d9f3
+
+}
+
+.galleryimage{
+
+display:inline-block;
+margin-left: 30%;
+
+
+}
+
+p{
+  text-align: center;
+  margin-left: 30%
+  
+}
+
+.gallery2{
+
+  display:inline-block;
+  margin-left: 30%;
+}
