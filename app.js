@@ -2,7 +2,6 @@
 
 alert('Welcome dear\'s');
 
-
 var pictureType = prompt('what type of pirctures do u like,  Wild Animals, Toursim Area, Football Staduim, or Rain Forset ');
 if(pictureType == 'Wild Animals'){
 
